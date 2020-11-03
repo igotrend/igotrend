@@ -1,16 +1,16 @@
-### Hi there 👋
+Project Type: Digital Marketing website for www.igotrend.com
 
-<!--
-**igotrend/igotrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Name: IgoTrend (IGT®)
 
-Here are some ideas to get you started:
+Background Information:
+IGoTrend.com is an Influencer and content creator marketing platform/hub for brands & agencies.
+Brands/Advertisers/Agency uses IGT® to create individual campaigns to promote their products or
+brands and select individual trenders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools and Technologies to be Used:
+Design - HTML5, CSS, Javascript/Jquery, Bootstrap
+Back-end Framework Django
+Code Technology - Python
+Database - MySQL
+Content Management system - Developed
+Hosting - Cpanel
